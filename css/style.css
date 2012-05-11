@@ -311,11 +311,11 @@ label {
 
 .main ul li.width {
   background-color: white;
-  width: 250px;
+  width: 30%;
   height:auto;
   float: left;
   margin-right:2.4%;
-  margin-bottom: 7%;
+  margin-bottom:1;
   list-style-type: none;
   -moz-box-shadow: 1px 1px 1px #ccc;
   -webkit-box-shadow: 1px 1px 1px #ccc;
